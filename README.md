@@ -93,6 +93,8 @@ The join performed to create songplay was  created using:
 In the etl file the json files were read and used to populate the tables in the schema. 
     
 Sample Result:
+
+
 ![Result 1](result1.JPG)
 ![Result 2](result2.JPG)
 ![Result 3](result3.JPG)
